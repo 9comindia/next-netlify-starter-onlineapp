@@ -12,8 +12,9 @@ export default function Home() {
 
       <main>
         <Header> title="Welcome to Logic RACE app!" </Header>
+    <img src="/images/google-play-badge-eng.png" alt="Nature" />
         <p className="description">
-    <link rel="icon" href="/favicon.ico" />
+    <img src="/images/google-play-badge-telugu.png" alt="Nature" />
     <a href="https://play.google.com/store/apps/details?id=com.logicrace.socialmediaplatform">Logic </a>
           Get started by downloading from the Google Play store https://play.google.com/store/apps/details?id=com.logicrace.socialmediaplatform
         </p>
