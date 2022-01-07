@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to Logic RACE app!" />
-        <p className="description">
+        <p style="text-align:center;">
     
     <a href="https://play.google.com/store/apps/details?id=com.logicrace.socialmediaplatform"><img src="/images/google-play-badge-telugu.png" alt="Logic RACE" /> </a>
     <a href="https://play.google.com/store/apps/details?id=com.logicrace.socialmediaplatform"><img src="/images/google-play-badge-eng.png" alt="Logic RACE" /> </a>
