@@ -4,7 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <div className="container">
+    <div>
       <Head>
         <title>Logic RACE app</title>
         <link rel="icon" href="/lr-logo-icon.png" />
