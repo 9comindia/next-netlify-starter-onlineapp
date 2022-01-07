@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Logic RACE app</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/lr-logo-icon.png" />
       </Head>
 
       <main>
