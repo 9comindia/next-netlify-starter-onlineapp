@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Logic RACE app!" />
         <p className="description">
-    <a href="https://play.google.com/store/apps/details?id=com.logicrace.socialmediaplatform", title="Install" target="_blank"><img class="img" src="images/google-play-badge-eng.jpg" style="border: 0px;" alt="Logic RACE app" /></a>
+    <a href="https://play.google.com/store/apps/details?id=com.logicrace.socialmediaplatform"><img class="img" src="images/google-play-badge-eng.jpg" style="border: 0px;" alt="Logic RACE app" /></a>
           Get started by downloading from the Google Play store https://play.google.com/store/apps/details?id=com.logicrace.socialmediaplatform
         </p>
       </main>
